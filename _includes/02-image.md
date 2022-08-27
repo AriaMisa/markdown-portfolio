@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Misa from Death Note](https://deathnote.fandom.com/wiki/Misa_Amane?file=Misa_and_Rem_discuss_Kira.jpg)
