@@ -1,1 +1,6 @@
-I like ***BOLD*** ***styling*** :heart:
+<details>
+  <summary>***Style***</summary>
+
+  I like ***BOLD*** ***styling*** :heart:
+
+</details>
